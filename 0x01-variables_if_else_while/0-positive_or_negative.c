@@ -3,12 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - print if the number is positive, zero, or negative
- *
+ * main -Entry point
  * Description: using the main function
  * this program prints
  * Progamming is positive, zero, or negative
- * Return: 0 if successful
+ * Return: 0 (success)
  */
 int main()
 {
@@ -21,7 +20,7 @@ int main()
 		printf\9"%d is positive\n", n);
 	else if (n == 0)
 		printf("%i is zero\n", n);
-	elsee if (n < 0)
+	else if (n < 0)
 		printf("%i is negative\n", n);
 	return (0)
 }

@@ -7,7 +7,7 @@
  * @n: number of bytes to print
  *
  * Return: void
- */
+**/
 void print_opcodes(char *a, int n)
 {
 int i;
@@ -23,11 +23,11 @@ printf("\n");
 }
 
 /**
- * main - print the opcodes og its own main function
+ * main - prints the opcodes of its own main function
  * @argc: number of arguments passed to the function
- * @rgv: array of pointers to arguments
+ * @argv: array of pointers to arguments
  *
- * Return: 0 if successful
+ * Return: always O
  */
 int main(int argc, char **argv)
 {

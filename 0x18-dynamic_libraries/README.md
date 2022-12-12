@@ -1,1 +1,1 @@
-0x18. C - Dynamic libraries
+Creating and Using Dynamic LIbraries (Linux)
